@@ -1,6 +1,6 @@
 server:
   port: 8088
   servlet:
-    context-path: /params11
+    context-path: /demo
 
 active: local yml file
